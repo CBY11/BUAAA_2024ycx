@@ -1,0 +1,12 @@
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter1.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter11.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter12.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter14.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter15.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter2.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter5.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter6.png
+F:/Develop/Python_File/ycx_yolo/data/FirePenShooter/firePeashooter9.png
+F:/Develop/Python_File/ycx_yolo/data/PeaShooter/peashooter11.png
+F:/Develop/Python_File/ycx_yolo/data/PeaShooter/peashooter2.png
+F:/Develop/Python_File/ycx_yolo/data/PeaShooter/peashooter6.png

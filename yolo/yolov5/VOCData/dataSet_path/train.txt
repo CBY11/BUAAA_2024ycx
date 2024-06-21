@@ -1,0 +1,8 @@
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_1.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_2.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_3.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_4.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_5.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_6.jpg
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img_7.jpg
+

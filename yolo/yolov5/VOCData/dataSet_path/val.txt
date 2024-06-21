@@ -1,0 +1,1 @@
+F:/Develop/Python_File/ycx_yolo/yolo/yolov5/VOCData/images/img.jpg
